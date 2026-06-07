@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-memories-touch-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Only Memories Touch Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-memories-touch-me/) |
+| **Get License** | [Official Music Licensing for Only Memories Touch Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-memories-touch-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The whiskey is poured, but the glass is alone
+> I'm staring at pictures on a quiet phone
+> I can still feel your breath falling soft on my neck
+> A sweet kind of ruin, a beautiful wreck
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
